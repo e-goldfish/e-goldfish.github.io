@@ -1,0 +1,73 @@
+body {
+    background-color: #FFB3C6;
+}
+
+li {
+    display: inline;
+    padding: 2px;
+    border-style: dotted;
+    border-radius: 15px;
+    border-weight: 20px;
+    border-color: #FB6F92;
+    margin: 2px;
+}
+
+p {
+  text-indent: 30px;
+  text-align: left;
+  color: #FB6F92;
+  font-size: 25px;
+  font-family: "Lucida Console", "Papyrus", Fantasy;
+}
+
+p1 {
+  text-indent: 30px;
+  text-align: left;
+  color: white;
+  font-size: 25px;
+  font-family: "Lucida Console", "Papyrus", Fantasy;
+}
+
+h1 {
+  text-indent: 30px;
+  text-align: center;
+  color: #cd416b;
+  font-size: 75px;
+  font-family: "Lucida Console", "Papyrus", Fantasy;
+  text-decoration-line: underline;
+}
+
+h2 {
+  margin-top: 200px;
+  text-indent: 30px;
+  text-align: center;
+  color: #cd416b;
+  font-size: 75px;
+  font-family: "Lucida Console", "Papyrus", Fantasy;
+  text-decoration-line: underline;
+  font-weight: bold;
+  text-shadow: 2px 2px white;
+}
+
+h3 {
+  text-indent: 30px;
+  text-align: center;
+  color: #cd416b;
+  font-size: 50px;
+  font-family: "Lucida Console", "Papyrus", Fantasy;
+}
+
+#carouselExampleCaptions {
+  margin: auto;
+  border-style: dotted;
+  border-radius: 15px;
+  border-weight: 50px;
+  border-color: #ffe5ec;
+  padding: 20px;
+  width: 75%;
+  height: 68%;
+}
+
+#home {
+  background-image: url("downtownbk.jpg");
+}
